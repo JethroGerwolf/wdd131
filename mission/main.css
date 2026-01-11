@@ -1,0 +1,45 @@
+
+/* css for everything on the page */
+#content {
+    margin: 10px auto;
+    max-width: 50%;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+/* css for header section */
+header {
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: 20px;
+}
+header h1 {
+    margin-bottom: 10px;
+}
+header p {
+    margin: 0 0 0 0;
+    color: #035f9c;
+}
+hr {
+    margin-top: 0;
+    background-color: darkgrey;
+    
+}
+
+/* css for the list and small paragraph section */
+main {
+    padding: 40px 0;
+}
+.header-list {
+    font-style: italic;
+}
+li {
+    list-style-type: decimal;
+}
+
+/* css for the logo image / footer */
+.logo {
+    display: block;
+    margin: 25px auto;
+    width: 25%;
+}
