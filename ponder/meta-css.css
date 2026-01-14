@@ -32,6 +32,8 @@ img {
     margin: 0 auto;
     width: 555;
 }
-.class {
+.list {
     list-style-type: none;
+    width: 80%;
+    margin: 0 auto;
 }
